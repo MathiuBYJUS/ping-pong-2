@@ -1,0 +1,12 @@
+
+
+body
+{
+ scale: 100%;
+    background-color: aqua;
+}
+#instrucciones
+{
+    float: right;
+    padding: 10px;
+}
